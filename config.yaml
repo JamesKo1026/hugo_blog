@@ -1,5 +1,6 @@
-baseURL: "https://<JamesKo1026>.github.com/hugo_blog"
+baseURL: "https://<JamesKo1026>.github.io/hugo_blog"
 languageCode: "en-us"
 title: My New Hugo Site
 
 theme: "hyde"
+canonifyurls: true
